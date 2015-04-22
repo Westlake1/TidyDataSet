@@ -1,4 +1,4 @@
-# TidyDataSet
+# README.md
 This is a project for the Getting and Cleaning Data course.  The course was offered in April, 2015.
 
 The assignment is to extract and summarize the mean and standard deviation data from the "Human Activity Recognition Using
@@ -18,9 +18,9 @@ The following files are included:
 
 -- CodeBook.md  --      The code book that describes the variables
 
-------------------------------------------------
+---------------------------------------
 How to run the run_analysis.R script
-------------------------------------------------
+---------------------------------------
 All steps necessary to perform the analyis are coded in my R script named "run_analysis.R".   
 There are no additional manual steps required.
 
@@ -35,9 +35,9 @@ The results and all project files will be found in the working directory "C:/WD"
 
 The final results are in the file named "FinalTidyDataSet.txt".  This is best viewed in R Studio.
 
--------------------------------------------------------------------------------
-My script includes following automated steps (in this order):
--------------------------------------------------------------------------------
+---------------------------------------------
+My script includes following automated steps
+---------------------------------------------
  --- set the working directory
  
  --- get the working directory to verify it is set correctly
